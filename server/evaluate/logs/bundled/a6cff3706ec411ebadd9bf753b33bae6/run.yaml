@@ -1,0 +1,17 @@
+comment: bpe
+commit: 46ee7590316959f0b0a02aa8a00e94bba0989ef2
+commit_message: fix sampling when training
+is_dirty: false
+load_run: null
+name: source_code
+notes: ''
+python_file: /home/varuna/ml/lab-ml/python_autocomplete/python_autocomplete/train.py
+repo_remotes:
+- git@github.com:lab-ml/python_autocomplete.git
+start_step: 0
+tags:
+- code
+- source
+trial_date: '2021-02-14'
+trial_time: '18:30:45'
+uuid: a6cff3706ec411ebadd9bf753b33bae6
